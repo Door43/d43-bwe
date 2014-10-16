@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bwe:home|Door43 (bwe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bwe|d43-bwe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bwe/archive/master.zip|d43-bwe.zip]]
+
+**Recent Changes**
+{{changes>ns = bwe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bwe|Ethnologue data]]
+
